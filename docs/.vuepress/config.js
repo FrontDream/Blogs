@@ -1,5 +1,6 @@
 module.exports = {
     title: '前端梦想家',
+    dest: 'public',
     description: '人生不能没有梦，有梦就要努力！',
     // 注入到当前页面的 HTML <head> 中的标签
     head: [
