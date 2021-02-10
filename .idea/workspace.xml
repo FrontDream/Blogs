@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b556db26-57a0-4a93-bd89-02b5e9142acf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/github-doc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/Git/Git的骚操作你都会嘛/Head.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/Git/Git的骚操作你都会嘛/basic-rebase-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/Git/Git的骚操作你都会嘛/basic-rebase-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/Git/Git的骚操作你都会嘛/basic-rebase-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/Git/Git的骚操作你都会嘛/basic-rebase-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/Git/Git的骚操作你都会嘛/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/Git/Git的骚操作你都会嘛/chery-pick.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/Git/Git的骚操作你都会嘛/config.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/Git/Git的骚操作你都会嘛/format.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/Git/Git的骚操作你都会嘛/gitconfig.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/Git/Git的骚操作你都会嘛/limit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/Git/Git的骚操作你都会嘛/merge1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/Git/Git的骚操作你都会嘛/merge2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/Git/Git的骚操作你都会嘛/merge3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/Git/Git的骚操作你都会嘛/merge4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/Git/Git的骚操作你都会嘛/merge5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/Git/Git的骚操作你都会嘛/merge6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/Git/Git的骚操作你都会嘛/modify.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/Git/Git的骚操作你都会嘛/modify2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/Git/Git的骚操作你都会嘛/modifyHistoryMessage1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/Git/Git的骚操作你都会嘛/modifyHistoryMessage2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/Git/Git的骚操作你都会嘛/modifyHistoryMessage3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/Git/Git的骚操作你都会嘛/objects.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/Git/Git的骚操作你都会嘛/refs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/Git/Git的骚操作你都会嘛/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/Git/Git的骚操作你都会嘛/search1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/Git/Git的骚操作你都会嘛/ssh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/Git/Git的骚操作你都会嘛/tablelayout.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/Vue/Vue项目接入Eslint与Prettier/Vetur与Prettier冲突.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/Vue/Vue项目接入Eslint与Prettier/webstorm-eslint.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/Vue/Vue项目接入Eslint与Prettier/webstorm第一步.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/Vue/Vue项目接入Eslint与Prettier/webstorm第二步.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/Vue/Vue项目接入Eslint与Prettier/webstorm配eslint即使检查.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/Vue/Vue项目接入Eslint与Prettier/官方.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/Vue/Vue项目接入Eslint与Prettier/插件下载.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/index.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/微信小程序/微信小程序常见开发技巧/hightlight.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/微信小程序/微信小程序常见开发技巧/multi.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/微信小程序/微信小程序常见开发技巧/plain-star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/微信小程序/微信小程序常见开发技巧/revert.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/微信小程序/微信小程序常见开发技巧/single.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/微信小程序/微信小程序常见开发技巧/star.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/微信小程序/微信小程序常见开发技巧/放大.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/微信小程序/微信小程序常见开发技巧/预览.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/微信小程序/微信小程序组件height高度自适应/flex.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/微信小程序/微信小程序组件height高度自适应/getHight.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/微信小程序/微信小程序组件height高度自适应/scroll-view.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/微信小程序/微信小程序组件height高度自适应/scroll.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/微信小程序/微信小程序组件height高度自适应/固定高度.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/accumulate/Git/Git的骚操作你都会嘛.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/accumulate/JS/Javascript工具函数大全.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/accumulate/JS/就业总结.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/accumulate/JS/用一道大厂面试题带你搞懂事件循环机制.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/accumulate/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/accumulate/Vue/Vue项目接入Eslint与Prettier.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/accumulate/其他/AntDesignPro中台项目迁移Typescript，并接入Eslint+Prettier代码格式化.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/accumulate/其他/Electron+React+七牛云开发跨平台云文档.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/accumulate/微信小程序/微信小程序常见开发技巧.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/accumulate/微信小程序/微信小程序组件height高度自适应.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/algorithm/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/algorithm/simple/test.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1o6sX00U3YZ0BgUhL2KT93AtefI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/.vuepress/public/Git/Git的骚操作你都会嘛" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/.vuepress/public/Git/Git的骚操作你都会嘛" />
+      <recent name="$PROJECT_DIR$/docs/.vuepress/public/微信小程序/微信小程序常见开发技巧" />
+      <recent name="$PROJECT_DIR$/docs/.vuepress/public/微信小程序" />
+      <recent name="$PROJECT_DIR$/docs/.vuepress/public/Vue/Vue项目接入Eslint与Prettier" />
+      <recent name="$PROJECT_DIR$/docs/accumulate/JS" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/.vuepress/public/微信小程序/微信小程序组件height高度自适应" />
+      <recent name="$PROJECT_DIR$/docs/accumulate/其他" />
+      <recent name="$PROJECT_DIR$/docs/accumulate/Vue" />
+      <recent name="$PROJECT_DIR$/docs/accumulate/微信小程序" />
+      <recent name="$PROJECT_DIR$/docs/accumulate/Git" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b556db26-57a0-4a93-bd89-02b5e9142acf" name="Default Changelist" comment="" />
+      <created>1612618409382</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612618409382</updated>
+      <workItem from="1612618410453" duration="3280000" />
+      <workItem from="1612688880098" duration="3885000" />
+      <workItem from="1612944694674" duration="3645000" />
+      <workItem from="1612948856486" duration="2431000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
