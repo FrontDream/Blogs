@@ -60,10 +60,11 @@ module.exports = {
                     ]
                 },
                 {
-                    title: '其他',
+                    title: 'React',
                     children: [
-                        '/accumulate/其他/AntDesignPro中台项目迁移Typescript，并接入Eslint+Prettier代码格式化', // 以docs为根目录来查找文件
-                        '/accumulate/其他/Electron+React+七牛云开发跨平台云文档', // 以docs为根目录来查找文件
+                        '/accumulate/React/AntDesignPro中台项目迁移Typescript，并接入Eslint+Prettier代码格式化', // 以docs为根目录来查找文件
+                        '/accumulate/React/Electron+React+七牛云开发跨平台云文档', // 以docs为根目录来查找文件
+                        '/accumulate/React/React+Typescript最佳实践'
                     ]
                 },
             ],
