@@ -1,12 +1,11 @@
 module.exports = {
     title: '前端梦想家',
-    dest: 'public',
     description: '人生不能没有梦，有梦就要努力！',
     // 注入到当前页面的 HTML <head> 中的标签
     head: [
         ['link', { rel: 'icon', href: '/.vuepress/public/index.jpg' }], // 增加一个自定义的 favicon(网页标签的图标)
     ],
-    base: '/', // 这是部署到github相关的配置 下面会讲
+    base: '/PersonBlog/', // 这是部署到github相关的配置 下面会讲
     markdown: {
         lineNumbers: true // 代码块显示行号
     },

@@ -7,3 +7,4 @@ sources/.vuepress/dist/
 *.bat
 .idea/workspace.xml
 .idea/ vcs.xml
+.idea/.idea
