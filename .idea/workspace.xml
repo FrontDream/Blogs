@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b556db26-57a0-4a93-bd89-02b5e9142acf" name="Default Changelist" comment="" />
+    <list default="true" id="b556db26-57a0-4a93-bd89-02b5e9142acf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/deploy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/deploy.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/accumulate/Git/Git的骚操作你都会嘛.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/accumulate/Git/Git的骚操作你都会嘛.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/accumulate/JS/Javascript工具函数大全.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/accumulate/JS/Javascript工具函数大全.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/accumulate/JS/就业总结.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/accumulate/JS/就业总结.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/accumulate/JS/用一道大厂面试题带你搞懂事件循环机制.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/accumulate/JS/用一道大厂面试题带你搞懂事件循环机制.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/accumulate/React/AntDesignPro中台项目迁移Typescript，并接入Eslint+Prettier代码格式化.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/accumulate/React/AntDesignPro中台项目迁移Typescript，并接入Eslint+Prettier代码格式化.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/accumulate/React/Electron+React+七牛云开发跨平台云文档.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/accumulate/React/Electron+React+七牛云开发跨平台云文档.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/accumulate/React/React+Typescript最佳实践.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/accumulate/React/React+Typescript最佳实践.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/accumulate/Vue/Vue项目接入Eslint与Prettier.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/accumulate/Vue/Vue项目接入Eslint与Prettier.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/accumulate/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/accumulate/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/accumulate/微信小程序/微信小程序常见开发技巧.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/accumulate/微信小程序/微信小程序常见开发技巧.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/accumulate/微信小程序/微信小程序组件height高度自适应.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/accumulate/微信小程序/微信小程序组件height高度自适应.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/algorithm/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/algorithm/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/algorithm/simple/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/algorithm/simple/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/css/0.styles.270106cd.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/10.6b8b7a4d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/11.4539e3f4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/12.a15512ce.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/13.800536d3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/14.ce5da6ce.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/15.8ae6aab1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/4.32394020.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/5.6cef991a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/9.9f3a7625.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/app.d280d74a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
