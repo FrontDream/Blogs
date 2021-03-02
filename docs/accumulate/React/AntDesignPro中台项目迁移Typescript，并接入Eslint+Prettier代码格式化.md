@@ -443,41 +443,50 @@ module.exports = {
 
 prettier 和 eslint 可以在保存时自动检查并自动格式化一部分问题，在 settings.json 文件中修改其配置文件如下：
 
-```javascript
+```json
 {
-    "eslint.enable": true, //是否开启vscode的eslint
-    "eslint.options": { //指定vscode的eslint所处理的文件的后缀
-        "extensions": [
-            ".js",
-            ".vue",
-            ".ts",
-            ".tsx"
-        ]
-    },
-    "editor.formatOnSave": true,
-    "editor.codeActionsOnSave": {
+    "workbench.iconTheme": "vscode-icons",
+        "explorer.confirmDragAndDrop": false,
+        "explorer.confirmDelete": false,
+        //配置eslint
+        "eslint.autoFixOnSave": true, //  每次保存的时候将代码按eslint格式进行修复,默认只支持.js文件
+        "eslint.validate": [
+        "javascript", //  用eslint的规则检测js文件
+    ],
+
+        // autoSave
+        "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+        "editor.codeActionsOnSave": {
         "source.fixAll.eslint": true
     },
-    "eslint.validate": [ //确定校验准则
-        "javascript",
-        "javascriptreact",
-        {
-            "language": "html",
-            "autoFix": true
-        },
-        {
-            "language": "vue",
-            "autoFix": true
-        },
-        {
-            "language": "typescript",
-            "autoFix": true
-        },
-        {
-            "language": "typescriptreact",
-            "autoFix": true
-        }
-    ]
+    // tslint配置
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "minapp-vscode.disableAutoConfig": true,
+        "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "files.associations": {
+        "*.wxss": "css",
+            "*.wxs": "javascript",
+            "*.acss": "css",
+            "*.axml": "html",
+            "*.wxml": "html",
+            "*.swan": "html"
+    },
+    "files.trimTrailingWhitespace": true,
+        "eslint.workingDirectories": [{ "mode": "auto" }],
+        "eslint.enable": true, // 是否开启 vscode 的 eslint
+        "eslint.options": {
+        // 指定 vscode 的 eslint 所处理的文件的后缀
+        "extensions": [".js", ".ts", ".tsx"]
+    },
+    "git.ignoreLimitWarning": true,
+        "editor.linkedEditing": true,
+        "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
 }
 ```
 
